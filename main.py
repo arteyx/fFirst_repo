@@ -1,1 +1,1 @@
-print("Hello World")
+git config --global user.name "arteyx"
